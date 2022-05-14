@@ -20,6 +20,8 @@ console.log("Hola Soy Jhonatan Giron Cabrera CC: 1004683958");
 
 
 console.log("ana mariaciro 1004682061");
+console.log("ana mariaciro 1004682061")
+console.log("stiven geronimo restrepo cc: 1000088804")
 
 
 
