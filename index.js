@@ -12,3 +12,16 @@ console.log('Aljandro colina 1088005963');
 
 
 console.log("ana mariaciro 1004682061")
+
+
+
+
+
+
+
+
+
+
+
+console.log("Juan Manuel Lopez 1004738526")
+console.log("Juan Jose Moreno Aguirre 1004738526")
