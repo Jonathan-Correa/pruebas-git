@@ -43,4 +43,9 @@ console.log("ana mariaciro 1004682061")
 console.log("Francisco Olmedo Castro Peña- 1007605461")
 
 
+<<<<<<< HEAD
 >>>>>>> 9618ac06413509b0b97d4d7aced3f56a1ac212c4
+=======
+
+console.log("Yessica Gutierrez estuvo por aca");
+>>>>>>> b17c3fd00822f2410d772aedf669fda0e81d642a
