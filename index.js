@@ -16,10 +16,13 @@ console.log('Aljandro colina 1088005963');
 
 
 
-console.log("Hola Soy Jhonatan Giron Cabrera CC: 1004683958")
+console.log("Hola Soy Jhonatan Giron Cabrera CC: 1004683958");
 
 
+console.log("ana mariaciro 1004682061");
 console.log("ana mariaciro 1004682061")
+console.log("stiven geronimo restrepo cc: 1000088804")
+
 
 
 
@@ -33,6 +36,81 @@ console.log("ana mariaciro 1004682061")
 
 console.log("Juan Manuel Lopez 1004738526")
 console.log("Juan Jose Moreno Aguirre 1004738526")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log("jhon brandon restrepo 1004739576");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log('Jhon Brandon Restrepo ---- 1004739576 ----');
+
 console.log("Diana Carolina Agudelo Salas- 1088292398");
 
 
@@ -60,4 +138,8 @@ console.log("Yessica Gutierrez estuvo por aca");
 
 
 
+
 console.log("Juan Jose Moreno Aguirre 1004738526")
+
+
+console.log("Kevin Torres CC 1004679580");
