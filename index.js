@@ -96,4 +96,9 @@ console.log("Francisco Olmedo Castro Peña- 1007605461")
 
 
 console.log("Yessica Gutierrez estuvo por aca");
+<<<<<<< HEAD
 >>>>>>> 4b018ceb8f0d684d68cbfd672f8fbd86d1a43878
+=======
+
+console.log("Kevin Torres CC 1004679580");
+>>>>>>> 7e2d87935175a415f926c7f8012e77ad37c3bef9
