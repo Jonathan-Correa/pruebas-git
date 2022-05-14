@@ -146,3 +146,6 @@ console.log("Juan Jose Moreno Aguirre 1004738526")
 
 
 console.log("Kevin Torres CC 1004679580");
+
+
+console.log("Juan Camilo Gallego - 1002652876");
