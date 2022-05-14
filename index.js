@@ -37,6 +37,10 @@ console.log ("Valentgina palacio CC1004735707")
 
 
 
+console.log("Juan Manuel Lopez 1004738526")
+console.log("Juan Jose Moreno Aguirre 1004738526")
+
+
 
 
 
@@ -62,7 +66,7 @@ console.log("jhon brandon restrepo 1004739576");
 
 
 
-<<<<<<< HEAD
+
 
 
 
@@ -109,7 +113,7 @@ console.log("jhon brandon restrepo 1004739576");
 
 
 console.log('Jhon Brandon Restrepo ---- 1004739576 ----');
-=======
+
 console.log("Diana Carolina Agudelo Salas- 1088292398");
 
 
@@ -127,9 +131,18 @@ console.log("Francisco Olmedo Castro Peña- 1007605461")
 
 
 console.log("Yessica Gutierrez estuvo por aca");
-<<<<<<< HEAD
->>>>>>> 4b018ceb8f0d684d68cbfd672f8fbd86d1a43878
-=======
+
+
+
+
+
+
+
+
+
+
+
+console.log("Juan Jose Moreno Aguirre 1004738526")
+
 
 console.log("Kevin Torres CC 1004679580");
->>>>>>> 7e2d87935175a415f926c7f8012e77ad37c3bef9
