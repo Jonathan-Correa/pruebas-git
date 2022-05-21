@@ -66,7 +66,7 @@ console.log("jhon brandon restrepo 1004739576");
 
 
 
-console.log("Buenas soy david Ramirez -- 1088285079)
+console.log("Buenas soy david Ramirez -- 1088285079")
 
 
 
@@ -148,3 +148,7 @@ console.log("Kevin Torres CC 1004679580");
 
 
 console.log("Juan Camilo Gallego - 1002652876");
+
+
+console.log("Daynlli Quintero Vanegas -- 1004779385 <3");
+
